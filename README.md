@@ -19,7 +19,7 @@ This template is designed to help developers and designers quickly create and cu
 ## 📁 Project Structure
 
 Portfolio-template/
-│
+│\n/n
 ├── css/ # Stylesheets
 ├── fonts/ # Custom fonts
 ├── images/ # Images and assets
