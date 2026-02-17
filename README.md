@@ -18,13 +18,13 @@ This template is designed to help developers and designers quickly create and cu
 
 ## 📁 Project Structure
 
-Portfolio-template/
-│\n/n
-├── css/ # Stylesheets
-├── fonts/ # Custom fonts
-├── images/ # Images and assets
-├── js/ # JavaScript files
-├── proj/ # Project-related files
+Portfolio-template/<br>
+│<br>
+├── css/ # Stylesheets<br>
+├── fonts/ # Custom fonts<br>
+├── images/ # Images and assets<br>
+├── js/ # JavaScript files<br>
+├── proj/ # Project-related files<br>
 └── index.html # Main entry point
 
 
